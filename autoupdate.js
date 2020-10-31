@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MiniRoyale 2 Mod
 // @version      1.8
-// @description  An overpowered mini royale mod made by ɹaɹoldxa ʇauɹaʇu!#2036 & Blockman_#0431!
+// @description  An overpowered mini royale mod made by ɹaɹoldxa ʇauɹaʇu!#2036 & Blockman_#0431a
 // @author       ɹaɹoldxa ʇauɹaʇu!#2036 & Blockman_#0431
 // @match        *://miniroyale2.io/*
 // @iconURL      https://miniroyale2.io/favicon.ico
